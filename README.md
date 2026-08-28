@@ -13,7 +13,7 @@ This repository contains the project's:
 - Spec
 - roadmap
 - design decisions
-- documentation (doddle of doc)
+- documentation (doodle of doc)
 - build strategy
 
-[IMPORTANT] This is not the OS source repository. Just a doddle.
+[IMPORTANT] This is not the OS source repository. Just a doodle.
